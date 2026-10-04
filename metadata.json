@@ -1,0 +1,8 @@
+{
+  "name": "NEXORA — Smart Student Career Intelligence",
+  "description": "Futuristic AI career intelligence platform helping students discover their career DNA, bridge skill gaps, and navigate personalized career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
